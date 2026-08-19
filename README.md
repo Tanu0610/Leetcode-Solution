@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -43,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -52,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
