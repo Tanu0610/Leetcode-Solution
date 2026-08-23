@@ -1,0 +1,3 @@
+class Solution(object):
+      def sumGame(self, A):
+        return sum([1, -1][i < len(A) / 2] * (4.5 if c == '?' else int(c)) for i, c in enumerate(A)) != 0
