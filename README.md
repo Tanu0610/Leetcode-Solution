@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1872-stone-game-viii) |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
