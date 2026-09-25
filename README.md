@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -217,4 +220,16 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
