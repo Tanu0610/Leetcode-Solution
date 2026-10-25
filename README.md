@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1563-stone-game-v) |
@@ -256,6 +257,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -270,6 +272,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
@@ -313,6 +317,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Tanu0610/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
