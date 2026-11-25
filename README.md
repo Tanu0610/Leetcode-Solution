@@ -61,6 +61,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Tanu0610/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -469,4 +472,16 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Tanu0610/Leetcode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Tanu0610/Leetcode-Solution/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
